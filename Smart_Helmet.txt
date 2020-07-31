@@ -1,0 +1,25 @@
+Welcome!!!
+
+TEAM EUREKA 6
+
+This is Smart helmet project .
+
+We have added new features and specifications in Smart Helmet to make to make ourselves safe.
+
+Sensors:-
+
+Alcohol sensor 
+
+Accelerometer sensor
+
+Vibration sensor
+
+Ultrasonic sensor
+
+Additional features:-
+
+Google assistant 
+
+Thermoelectric plate
+
+Indicators
